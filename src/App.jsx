@@ -1,8 +1,8 @@
 import React from 'react';
 import { Parallax } from 'react-parallax';
-import { Button, Card, CardContent, CardMedia, Container, Typography } from '@material-ui/core';
+import { Button, Card, CardContent, CardMedia, Container, Typography } from '@mui/material';
 import { Carousel } from 'react-responsive-carousel';
-import { makeStyles } from '@material-ui/core/styles';
+import { makeStyles } from '@mui/styles';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import './App.css';
 
